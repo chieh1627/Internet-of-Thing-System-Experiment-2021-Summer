@@ -37,7 +37,7 @@ class APP:
         self.window.configure(background='white')
 
         # Line Notify通知權杖。
-        self.line_token = 'YUzttetMNYFQrNaVSdHNZI2RwcTjBzjDxlgJRsHTGwK'
+        self.line_token = ''
 
         # 初始化Arduino UNO serial通訊連接。
         # self.init_serial()
